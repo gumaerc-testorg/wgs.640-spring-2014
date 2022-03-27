@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: c5d6eba6-22de-b247-4d57-9295f8d5de10
 resourcetype: Image
 title: WGS-640_classroom-1
 uid: 9d2c897c-447e-54d0-2429-4a112840542d

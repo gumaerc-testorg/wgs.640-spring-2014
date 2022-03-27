@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6c94b485-2b33-ecc2-456f-8a9f18f3e042
 resourcetype: Document
 title: "Boys Don\u2019t Cry Class Discussion Questions"
 uid: c86b3168-4cab-1061-c10d-846d0f537e21

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6c94b485-2b33-ecc2-456f-8a9f18f3e042
 resourcetype: Document
 title: "Addressing Transphobia With Boys Don\u2019t Cry"
 uid: f9e61fc0-dd27-8430-ce78-bb54f7e625f0

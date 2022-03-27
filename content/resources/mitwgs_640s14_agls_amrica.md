@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6c94b485-2b33-ecc2-456f-8a9f18f3e042
 resourcetype: Document
 title: 'Angels in America: AIDS as an Epidemic of Signification'
 uid: 6cc98ef7-5ca6-ebac-652c-5dc151e1ac93

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6c94b485-2b33-ecc2-456f-8a9f18f3e042
 resourcetype: Document
 title: 'The Phenomenal Woman: How Beauty Shop Redefines Postfeminism to Makes Space
   for Black Bodies'
