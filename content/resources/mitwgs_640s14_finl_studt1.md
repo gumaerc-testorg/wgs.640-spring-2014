@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of student work for a final paper investigating an aspect of
   body culture.
-file: /media/courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014/69282cb75353716eb386d436fd2d08dc_MITWGS_640S14_Finl_studt1.pdf
+file: /courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014/69282cb75353716eb386d436fd2d08dc_MITWGS_640S14_Finl_studt1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -15,3 +15,5 @@ title: 'Smells Like Teen Vomit: Abjection, Unruliness, and Genre in Black Swan a
   Jennifer''s Body'
 uid: 69282cb7-5353-716e-b386-d436fd2d08dc
 ---
+Example of student work for a final paper investigating an aspect of body culture.
+

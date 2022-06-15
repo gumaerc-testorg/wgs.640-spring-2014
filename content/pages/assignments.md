@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments and examples
+  of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments
 uid: 6c94b485-2b33-ecc2-456f-8a9f18f3e042
 ---
@@ -15,7 +16,7 @@ Each week, students will submit one or two discussion questions to the course we
 
 Student Example:
 
-*   Discussion Questions: {{< resource_link c86b3168-4cab-1061-c10d-846d0f537e21 "_Boys Don’t Cry_ (PDF)" >}} (Courtesy of Kara DeMilio and Hannah Siegel. Used with permission.)
+*   Discussion Questions: {{% resource_link c86b3168-4cab-1061-c10d-846d0f537e21 "_Boys Don’t Cry_ (PDF)" %}} (Courtesy of Kara DeMilio and Hannah Siegel. Used with permission.)
 
 Oral Presentation and Paper
 ---------------------------
@@ -24,8 +25,8 @@ Each student will be responsible for leading one class discussion, centered arou
 
 Student Examples:
 
-*   {{< resource_link f9e61fc0-dd27-8430-ce78-bb54f7e625f0 "\"Addressing Transphobia with _Boys Don’t Cry_\" (PDF)" >}} (Courtesy of Hannah Siegel. Used with permission.)
-*   {{< resource_link 4c12a3a4-ebc2-0f9f-ba83-1b3e18b9e0f6 "\"Boys Don't Cry Film Analysis\" (PDF)" >}} (Courtesy of Kara DeMilio. Used with permission.)
+*   {{% resource_link f9e61fc0-dd27-8430-ce78-bb54f7e625f0 "\"Addressing Transphobia with _Boys Don’t Cry_\" (PDF)" %}} (Courtesy of Hannah Siegel. Used with permission.)
+*   {{% resource_link 4c12a3a4-ebc2-0f9f-ba83-1b3e18b9e0f6 "\"Boys Don't Cry Film Analysis\" (PDF)" %}} (Courtesy of Kara DeMilio. Used with permission.)
 
 Final Papers and Final Paper Proposals
 --------------------------------------
@@ -36,6 +37,6 @@ In order to prepare for your final paper, you will be handing in a 2–3 page pr
 
 Student Examples:
 
-*   {{< resource_link 69282cb7-5353-716e-b386-d436fd2d08dc "\"Smells Like Teen Vomit: Abjection, Unruliness, and Genre in _Black Swan_ and _Jennifer's Body_.\" (PDF)" >}} (Courtesy of a student in the course. Used with permission.)
-*   {{< resource_link 3d02e2eb-1f5e-6e50-7af9-59c6fb8f0aa6 "\"The Phenomenal Woman: How Beauty Shop Redefines Postfeminism to Makes Space for Black Bodies\" (PDF)" >}} (Courtesy of Hannah Siegel. Used with permission).
-*   {{< resource_link 6cc98ef7-5ca6-ebac-652c-5dc151e1ac93 "\"Angels in America: AIDS as an Epidemic of Signification.\" (PDF)" >}} (Courtesy of Kara DeMilio. Used with permission.)
+*   {{% resource_link 69282cb7-5353-716e-b386-d436fd2d08dc "\"Smells Like Teen Vomit: Abjection, Unruliness, and Genre in _Black Swan_ and _Jennifer's Body_.\" (PDF)" %}} (Courtesy of a student in the course. Used with permission.)
+*   {{% resource_link 3d02e2eb-1f5e-6e50-7af9-59c6fb8f0aa6 "\"The Phenomenal Woman: How Beauty Shop Redefines Postfeminism to Makes Space for Black Bodies\" (PDF)" %}} (Courtesy of Hannah Siegel. Used with permission).
+*   {{% resource_link 6cc98ef7-5ca6-ebac-652c-5dc151e1ac93 "\"Angels in America: AIDS as an Epidemic of Signification.\" (PDF)" %}} (Courtesy of Kara DeMilio. Used with permission.)
