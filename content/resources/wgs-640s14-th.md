@@ -13,10 +13,10 @@ image_metadata:
   credit: Image courtesy of Levy Bittencourt on Flickr. CC BY-NC-SA
   image-alt: A black and white photograph of a large dragon tattoo on a woman's back.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Dragon Tattoo (thumbnail)
 uid: c93706a5-8e42-b705-1e4e-a2f18e789f0a
 ---
 Thumbnail of a photograph based on the character Lisbeth Salandar from The Girl With the Dragon Tattoo. The class watched the film during session 5. Image courtesy of Levy Bittencourt on Flickr. CC BY-NC-SA.
-

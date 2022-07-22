@@ -6,6 +6,7 @@ file: /courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spr
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Addressing Transphobia With Boys Don\u2019t Cry"
 uid: f9e61fc0-dd27-8430-ce78-bb54f7e625f0
 ---
 Example of student work for an assignment to write a paper that addresses an assigned film in conjunction with the week's readings.
-

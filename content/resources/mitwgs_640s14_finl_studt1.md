@@ -6,6 +6,7 @@ file: /courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spr
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Smells Like Teen Vomit: Abjection, Unruliness, and Genre in Black Swan a
 uid: 69282cb7-5353-716e-b386-d436fd2d08dc
 ---
 Example of student work for a final paper investigating an aspect of body culture.
-

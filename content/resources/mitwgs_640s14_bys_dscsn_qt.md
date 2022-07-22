@@ -6,6 +6,7 @@ file: /courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spr
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Boys Don\u2019t Cry Class Discussion Questions"
 uid: c86b3168-4cab-1061-c10d-846d0f537e21
 ---
 Example of student work for an assignment to submit discussion questions to synthesize course readings and the film for the week.
-

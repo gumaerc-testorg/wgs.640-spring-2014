@@ -6,6 +6,7 @@ file: /courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spr
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'The Phenomenal Woman: How Beauty Shop Redefines Postfeminism to Makes Sp
 uid: 3d02e2eb-1f5e-6e50-7af9-59c6fb8f0aa6
 ---
 Example of student work for a final paper investigating an aspect of body culture.
-
