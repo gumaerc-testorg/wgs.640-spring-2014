@@ -1,19 +1,21 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: c5d6eba6-22de-b247-4d57-9295f8d5de10
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _WGS.640 Screen Women: Body Narratives in Popular American Film_ as it was taught by Dr. Emily Fox-Kales and Dr. Suzanne Leonard in Spring 2014.
 
 This course studies contemporary films and media texts, and organizes itself around topics that have been granted considerable purchase in popular culture discourse, including: adolescent sexuality, narratives of pregnancy, portrayals of excessive mothering, diet culture, overweight bodies, body makeovers, racialized bodies, and raunch culture. Media texts have been selected based on their ability to speak to these issues in ways that are relevant to current body preoccupations rather than for their status as “canonical.” The course media texts thus reflect our interest in investigating how contemporary anxieties over the body play out on the popular culture stage.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
@@ -21,12 +23,11 @@ The course is designed to demonstrate that studying popular culture objects as t
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
-{{< quote "The most rewarding aspect of team teaching is the opportunity to learn from each other’s expertise in her discipline and thus expand the discourse we share with our students in the area of feminist media studies." "—Dr. Emily Fox-Kales" >}}
+{{< quote "The most rewarding aspect of team teaching is the opportunity to learn from each other’s expertise in her discipline and thus expand the discourse we share with our students in the area of feminist media studies." "—Dr.&nbsp;Emily Fox-Kales" >}}
 
-_Below, Dr. Emily Fox-Kales and Dr. Suzanne Leonard describe various aspects of how they taught _WGS.640 Screen Women: Body Narratives in Popular American Film_._
+_Below, Dr. Emily Fox-Kales and Dr. Suzanne Leonard describe various aspects of how they taught_ WGS.640 Screen Women: Body Narratives in Popular American Film.
 
 ### Instruction and Student Learning
 
@@ -42,8 +43,7 @@ Because all GCWS courses are team taught across disciplines, the process of crea
 
 Sharing ideas and creative planning sessions in establishing and subsequently revising the course since its first iteration continues to be a very positive experience. Equally useful, as noted above, is coming together to discuss each student’s work after first separately reading and evaluating their film presentation paper, final project proposal, and final paper and then arriving at a grade in consultation with each other. Ultimately however the most rewarding aspect of team teaching is the opportunity to learn from each other’s expertise in her discipline and thus expand the discourse we share with our students in the area of feminist media studies.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -57,24 +57,9 @@ H-Level Graduate Credit ![](/images/educator/icon-question-hlevel.png)
 
 WGS.640 is offered intermittently and is considered a special topics course about “Studies in Women’s Life Narratives.” The specific topic changes each time it is taught.
 
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A photograph from the back of a classroom showing several rows of long tables and chairs and several blackboards up front.]({{< resource_file 9d2c897c-447e-54d0-2429-4a112840542d >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    This course was taught in a medium-sized classroom with chalkboards on the front and side walls. Students sat in rows of long tables. Each period, the students were moved into a circle to facilitate discussion. 
-    
-
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -82,10 +67,11 @@ The students' grades were based on the following activities:
 - 30% Oral presentation and paper
 - 50% Final paper
 
-Student Information
--------------------
+## Student Information
 
-![On average, fewer than 10 students take this course each time it is offered.]({{< resource_file a55dcdd5-5e59-74e6-8829-95f7f4df4901 >}})
+### Enrollment
+
+Fewer than 10 students
 
 ### Breakdown by Year
 
@@ -105,18 +91,15 @@ Each seminar in the Graduate Consortium of Women’s Studies is limited to 20 st
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Seminar
--------
+### Seminar
 
-*   Met 1 time per week for 3 hours per session.
-*   The class time was divided between student-driven conversation and instructor-led commentary.
+- Met 1 time per week for 3 hours per session.
+- The class time was divided between student-driven conversation and instructor-led commentary.
 
-Out of Class
-------------
+### Out of Class
 
 Students spent their out-of-class time doing the readings, writing weekly discussion questions, preparing oral presentations, and writing a 15-20 page final paper.
