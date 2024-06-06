@@ -4,6 +4,7 @@ description: Thumbnail of a photograph based on the character Lisbeth Salandar f
   The Girl With the Dragon Tattoo. The class watched the film during session 5. Image
   courtesy of Levy Bittencourt on Flickr. CC BY-NC-SA.
 file: /courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014/c93706a58e42b7051e4ea2f18e789f0a_wgs-640s14-th.jpg
+file_size: 5859
 file_type: image/jpeg
 image_metadata:
   caption: A photograph based on the character Lisbeth Salandar from _The Girl With
