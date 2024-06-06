@@ -2,6 +2,7 @@
 content_type: resource
 description: Photo of the classroom used for the course.
 file: /courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014/9d2c897c447e54d024294a112840542d_WGS-640_classroom-1.jpg
+file_size: 53561
 file_type: image/jpeg
 image_metadata:
   caption: ''
