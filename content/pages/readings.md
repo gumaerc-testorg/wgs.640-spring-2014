@@ -177,7 +177,7 @@ Leonard, Suzanne. "'I Hate My Job, I Hate Everybody Here': Adultery, Boredom and
 Transgender Bodies
 {{< tdclose >}}{{< tdopen >}}
 
-Rigney, Melissa. "[Brandon Goes to Hollywood: *Boys Don't Cry* and the Transgender Body in Film](http://www.thefreelibrary.com/Brandon+goes+to+Hollywood+(1)%3A+Boys+Don't+Cry+and+the+transgender…-a0118377485)." *Film Criticism* 28, no. 2 (2003): 4.
+Rigney, Melissa. "[Brandon Goes to Hollywood: *Boys Don't Cry* and the Transgender Body in Film](http://www.thefreelibrary.com/Brandon+goes+to+Hollywood+%281%29%3A+Boys+Don't+Cry+and+the+transgender%E2%80%A6-a0118377485)." *Film Criticism* 28, no. 2 (2003): 4.
 
 Dittmar, Linda. "Performing Gender in Boys Don't Cry." In *Sugar, Spice, and Everything Nice: Cinema of Girlhood*. Edited by Frances Gateward and Murray Pomerance. Wayne State University Press, 2002. ISBN: 9780814329184. \[Preview with [Google Books](http://books.google.com/books?id=ywsajx7jqAMC&pg=PA145#v=onepage)\]
 
@@ -211,7 +211,7 @@ Warner, Helen. "A New Feminist Revolution in Hollywood Comedy?: Postfeminist Dis
 
 ### Recommended
 
-San Filippo, Maria. "[Owning Her Abjection: Lena Dunham's Queer Feminist Sexual Politics](http://mediacommons.futureofthebook.org/imr/2013/01/07/owning-her-abjection-lena-dunhams-queer-feminist-sexual-politics)." *in media res*. January 7, 2013.
+San Filippo, Maria. "[Owning Her Abjection: Lena Dunham's Queer Feminist Sexual Politics](https://mediacommons.org/imr/2013/01/02/owning-her-abjection-lena-dunhams-queer-feminist-sexual-politics)." *in media res*. January 7, 2013.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
