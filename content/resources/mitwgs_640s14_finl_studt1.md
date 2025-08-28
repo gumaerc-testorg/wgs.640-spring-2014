@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of student work for a final paper investigating an aspect of
   body culture.
-file: /courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014/69282cb75353716eb386d436fd2d08dc_MITWGS_640S14_Finl_studt1.pdf
+file: /ol-ocw-studio-app/courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014/69282cb75353716eb386d436fd2d08dc_MITWGS_640S14_Finl_studt1.pdf
 file_size: 266914
 file_type: application/pdf
 learning_resource_types:
