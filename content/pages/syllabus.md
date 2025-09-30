@@ -16,7 +16,7 @@ Seminars: 1 session / week, 3 hours / session
 Prerequisites
 -------------
 
-Students must apply to the [Graduate Consortium in Women's Studies](http://web.mit.edu/gcws/about/index.html).
+Students must apply to the {{% resource_link "60900662-4361-4c20-b746-fe4bc2e6bd72" "Graduate Consortium in Women's Studies" %}}.
 
 Course Description
 ------------------
@@ -28,9 +28,9 @@ The course is organized in such a way so that first four weeks of the course are
 Required Texts
 --------------
 
-Bordo, Susan. _Unbearable Weight: Feminism, Western Culture, and the Body_. University of California Press, 2004. ISBN: 978052024054. \[Preview with [Google Books](http://books.google.com/books?id=rezqDU30R5wC&pg=PAfrontcover)\]
+Bordo, Susan. _Unbearable Weight: Feminism, Western Culture, and the Body_. University of California Press, 2004. ISBN: 978052024054. \[Preview with {{% resource_link "fedf5083-7559-4b42-8b43-1e3e75c75e1a" "Google Books" %}}\]
 
-Karlyn, Katherine Rowe. _Unruly Girls, Unrepentant Mothers: Redefining Feminism on Screen_. University of Texas Press, 2011. ISBN: 9780292737549. \[Preview with [Google Books](http://books.google.com/books?id=YXTPZJm1W9wC&pg=PAfrontcover)\]
+Karlyn, Katherine Rowe. _Unruly Girls, Unrepentant Mothers: Redefining Feminism on Screen_. University of Texas Press, 2011. ISBN: 9780292737549. \[Preview with {{% resource_link "0fe8c8ad-f58a-43b2-adfe-d30ca86deb40" "Google Books" %}}\]
 
 Thornham, Sue, ed. _Feminist Film Theory: A Reader_. NYU Press, 1999. ISBN: 9780814782446.
 
