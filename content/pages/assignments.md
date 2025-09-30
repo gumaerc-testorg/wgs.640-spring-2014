@@ -12,7 +12,7 @@ uid: 6c94b485-2b33-ecc2-456f-8a9f18f3e042
 Discussion Questions
 --------------------
 
-Each week, students will submit one or two discussion questions to the course website. Discussion questions should attempt to synthesize course readings and the film for the week. In your question, please identify the central question that the reading(s) address that you find most applicable to the film. What can the readings help us to see about the film text? In conjunction with the class online Discussion project, students will also have an opportunity to participate in the annual film festival [Women Take the Reel](http://studentlife.mit.edu/women/programs/womentakethereel) when it will be hosted by MIT. Further guidelines for completing this course component will be provided when the festival schedule is finalized.
+Each week, students will submit one or two discussion questions to the course website. Discussion questions should attempt to synthesize course readings and the film for the week. In your question, please identify the central question that the reading(s) address that you find most applicable to the film. What can the readings help us to see about the film text? In conjunction with the class online Discussion project, students will also have an opportunity to participate in the annual film festival {{% resource_link "8a15d292-c9b7-4449-b1eb-81402edf9a17" "Women Take the Reel" %}} when it will be hosted by MIT. Further guidelines for completing this course component will be provided when the festival schedule is finalized.
 
 Student Example:
 

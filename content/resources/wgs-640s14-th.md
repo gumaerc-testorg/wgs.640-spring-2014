@@ -9,8 +9,8 @@ file_type: image/jpeg
 image_metadata:
   caption: A photograph based on the character Lisbeth Salandar from _The Girl With
     the Dragon Tattoo_. The class watched the film during session 5. (Image courtesy
-    of [Levy Bittencourt](https://www.flickr.com/photos/love_punx/9413071378/sizes/m/)
-    on Flickr. CC BY-NC-SA.)
+    of {{% resource_link "4d342606-8726-4550-9278-c52fc8d72b7f" "Levy Bittencourt"
+    %}} on Flickr. CC BY-NC-SA.)
   credit: Image courtesy of Levy Bittencourt on Flickr. CC BY-NC-SA
   image-alt: A black and white photograph of a large dragon tattoo on a woman's back.
 learning_resource_types: []
