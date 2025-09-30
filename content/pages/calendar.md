@@ -24,10 +24,10 @@ KEY DATES
 
 Introduction: Feminist Film Theory and the Politics of Vision
 
-In class: Clips from [*Peeping Tom*](http://www.imdb.com/title/tt0054167/?ref_=nv_sr_1)*,* [*Some Like It Hot*](http://www.imdb.com/title/tt0053291/?ref_=fn_al_tt_1)*,* [*Mad Men*](http://www.imdb.com/title/tt0804503/?ref_=fn_al_tt_1).
+In class: Clips from {{% resource_link "1949f7dd-10e5-4136-907f-6b1b971771e6" "*Peeping Tom*" %}}*,* {{% resource_link "d85bfc02-04a8-4199-9774-3d18d195917c" "*Some Like It Hot*" %}}*,* {{% resource_link "a8d8f9f3-ae85-48b3-b4f7-7b54879cde47" "*Mad Men*" %}}.
 
 {{< tdclose >}}{{< tdopen >}}
-[*Vertigo*](http://www.imdb.com/title/tt0052357/?ref_=fn_al_tt_1)*.* Directed by Alfred Hitchcock. Paramount Picture, 1958.
+{{% resource_link "547e9220-4d0b-49b8-b2b8-eee738004576" "*Vertigo*" %}}*.* Directed by Alfred Hitchcock. Paramount Picture, 1958.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -35,7 +35,7 @@ In class: Clips from [*Peeping Tom*](http://www.imdb.com/title/tt0054167/?ref_=n
 {{< tdclose >}}{{< tdopen >}}
 The Women's Film and Makeover Narratives
 {{< tdclose >}}{{< tdopen >}}
-[*Now, Voyager*](http://www.imdb.com/title/tt0035140/?ref_=fn_al_tt_2)*.* Directed by Irving Rapper. Warner Bros., 1942.
+{{% resource_link "1eb9a914-eea0-48ca-aabf-affad5704b76" "*Now, Voyager*" %}}*.* Directed by Irving Rapper. Warner Bros., 1942.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -43,7 +43,7 @@ The Women's Film and Makeover Narratives
 {{< tdclose >}}{{< tdopen >}}
 Body Makeovers
 {{< tdclose >}}{{< tdopen >}}
-[*The Devil Wears Prada*](http://www.imdb.com/title/tt0458352/?ref_=nv_sr_1)*.* Directed by David Frankel. Twentieth Century Fox, 2006.
+{{% resource_link "5ea6acb3-0a2f-4984-81df-8c9ead9589e3" "*The Devil Wears Prada*" %}}*.* Directed by David Frankel. Twentieth Century Fox, 2006.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -52,10 +52,10 @@ Body Makeovers
 
 Body Genres and The Final Girl
 
-In class: Clips from [*Thelma and Louise*](http://www.imdb.com/title/tt0103074/)*,* [*Terminator 2*](http://www.imdb.com/title/tt0103064/?ref_=nv_sr_1)*,* [*Carrie*](http://www.imdb.com/title/tt0074285/?ref_=fn_al_tt_2)*.*
+In class: Clips from {{% resource_link "033a5364-7b2d-49ed-8005-acf36d4e1216" "*Thelma and Louise*" %}}*,* {{% resource_link "2f33bf32-36cc-4d56-9d10-54fb46c8f8b5" "*Terminator 2*" %}}*,* {{% resource_link "84c4da62-ccd1-4ac0-b229-c13e543a8058" "*Carrie*" %}}*.*
 
 {{< tdclose >}}{{< tdopen >}}
-[*Alien*](http://www.imdb.com/title/tt0078748/?ref_=fn_al_tt_1)*.* Directed by Ridley Scott. Twentieth Century Fox, 1979.
+{{% resource_link "b008ee6d-25f9-4d4e-b41b-e0cf9b5b821d" "*Alien*" %}}*.* Directed by Ridley Scott. Twentieth Century Fox, 1979.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -64,10 +64,10 @@ In class: Clips from [*Thelma and Louise*](http://www.imdb.com/title/tt0103074/)
 
 Action Thrillers and the Rape Revenge Cycle
 
-In class: Clips from [*The Silence of the Lambs*](http://www.imdb.com/title/tt0102926/?ref_=nv_sr_1)*,* [*Kill Bill 2*](http://www.imdb.com/title/tt0378194/?ref_=nv_sr_2)*.*
+In class: Clips from {{% resource_link "8a182d87-8c99-40c5-a37b-7a4b5e5ce7fc" "*The Silence of the Lambs*" %}}*,* {{% resource_link "0ff10ec5-edd0-41fc-97e5-78d683320b24" "*Kill Bill 2*" %}}*.*
 
 {{< tdclose >}}{{< tdopen >}}
-[*The Girl with the Dragon Tattoo*](http://www.imdb.com/title/tt1568346/?ref_=nv_sr_1)*.* Directed by David Fincher. Columbia Pictures, 2012.
+{{% resource_link "a00d7f00-cfb7-4f95-af70-f4fd552d8e92" "*The Girl with the Dragon Tattoo*" %}}*.* Directed by David Fincher. Columbia Pictures, 2012.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -75,7 +75,7 @@ In class: Clips from [*The Silence of the Lambs*](http://www.imdb.com/title/tt01
 {{< tdclose >}}{{< tdopen >}}
 Adolescent Bodies / Teen Sexuality
 {{< tdclose >}}{{< tdopen >}}
-[*Thirteen*](http://www.imdb.com/title/tt0328538/?ref_=fn_al_tt_1)*.* Directed by Catherine Hardwicke. Fox Searchlight Pictures, 2003.
+{{% resource_link "5de5005b-59a8-434c-8c52-c9dab4c4f1a2" "*Thirteen*" %}}*.* Directed by Catherine Hardwicke. Fox Searchlight Pictures, 2003.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -83,7 +83,7 @@ Adolescent Bodies / Teen Sexuality
 {{< tdclose >}}{{< tdopen >}}
 Extreme Body Mastery: Discipline and Surveillance
 {{< tdclose >}}{{< tdopen >}}
-[*Black Swan*](http://www.imdb.com/title/tt0947798/?ref_=fn_al_tt_1). Directed by Darren Aronofsky. Fox Searchlight Pictures, 2010.
+{{% resource_link "acb21d9d-b155-43a5-89b6-da6794b1b037" "*Black Swan*" %}}. Directed by Darren Aronofsky. Fox Searchlight Pictures, 2010.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -92,10 +92,10 @@ Extreme Body Mastery: Discipline and Surveillance
 
 Narratives of Pregnancy
 
-Related media: [*Teen Mom*](http://www.imdb.com/title/tt1566154/?ref_=fn_al_tt_1)*,* [*Baby Mama*](http://www.imdb.com/title/tt0871426/?ref_=nv_sr_1)*,* [*The Switch*](http://www.imdb.com/title/tt0889573/?ref_=nv_sr_1)
+Related media: {{% resource_link "f51c5b5c-d5da-41bc-af37-df888f809c13" "*Teen Mom*" %}}*,* {{% resource_link "91515352-614a-47ff-9937-7b33c8a4e102" "*Baby Mama*" %}}*,* {{% resource_link "15815b94-78a5-4cf7-88b7-1cf2461c0d77" "*The Switch*" %}}
 
 {{< tdclose >}}{{< tdopen >}}
-[*Juno*](http://www.imdb.com/title/tt0467406/?ref_=nv_sr_2)*.* Directed by Jason Reitman. Fox Searchlight Pictures, 2007.
+{{% resource_link "cbf7fd16-e1cf-4bba-8c22-16c2d01d064d" "*Juno*" %}}*.* Directed by Jason Reitman. Fox Searchlight Pictures, 2007.
 {{< tdclose >}}{{< tdopen >}}
 Submit final projects
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -104,7 +104,7 @@ Submit final projects
 
 Narratives of Family and Questions of Sexualities
 
-Special Event: [Women Take the Reel Film Festival](http://web.mit.edu/gcws/news+events/2014women-reel.html)
+Special Event: {{% resource_link "0a059ded-eb10-4bf9-b95c-6c405e4a4140" "Women Take the Reel Film Festival" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 No films.
@@ -116,10 +116,10 @@ No films.
 
 Imperiled Masculinity, Monstrous Mothers, and At Risk Teens
 
-Related media: [*Spanglish*](http://www.imdb.com/title/tt0371246/?ref_=fn_al_tt_1)*,* [*Ginger and Rosa*](http://www.imdb.com/title/tt2115295/?ref_=fn_al_tt_1)
+Related media: {{% resource_link "5196a4e9-2b5d-47ac-91c5-733b0bcdd837" "*Spanglish*" %}}*,* {{% resource_link "88066397-4138-4f36-848d-ff908f76902a" "*Ginger and Rosa*" %}}
 
 {{< tdclose >}}{{< tdopen >}}
-[*American Beauty*](http://www.imdb.com/title/tt0169547/?ref_=fn_al_tt_4)*.* Directed by Sam Mendes. DreamWorks SKG, 1999.
+{{% resource_link "407cc336-3f5e-4892-a773-dc60a6d5ea53" "*American Beauty*" %}}*.* Directed by Sam Mendes. DreamWorks SKG, 1999.
 {{< tdclose >}}{{< tdopen >}}
 Final papers due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -127,7 +127,7 @@ Final papers due
 {{< tdclose >}}{{< tdopen >}}
 Transgender Bodies
 {{< tdclose >}}{{< tdopen >}}
-[*Boys Don't Cry*](http://www.imdb.com/title/tt0171804/?ref_=nv_sr_1)*.* Directed by Kimberly Peirce. Fox Searchlight Pictures, 1999.
+{{% resource_link "718b648f-5e8f-41a1-9a5c-c2c3af18e623" "*Boys Don't Cry*" %}}*.* Directed by Kimberly Peirce. Fox Searchlight Pictures, 1999.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -135,7 +135,7 @@ Transgender Bodies
 {{< tdclose >}}{{< tdopen >}}
 Unruly Bodies, Part One
 {{< tdclose >}}{{< tdopen >}}
-[*Precious*](http://www.imdb.com/title/tt0929632/?ref_=fn_al_tt_1)*.* Directed by Lee Daniels. Lionsgate, 2009.
+{{% resource_link "4e8332af-b291-4708-b2be-829ce9ee36bc" "*Precious*" %}}*.* Directed by Lee Daniels. Lionsgate, 2009.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -143,7 +143,7 @@ Unruly Bodies, Part One
 {{< tdclose >}}{{< tdopen >}}
 Unruly Bodies, Part Two
 {{< tdclose >}}{{< tdopen >}}
-[*Bridesmaids*](http://www.imdb.com/title/tt1478338/?ref_=fn_al_tt_1)*.* Directed by Paul Feig. Universal Pictures, 2011.
+{{% resource_link "fb10f3ec-b420-4e32-b68f-641f83be6823" "*Bridesmaids*" %}}*.* Directed by Paul Feig. Universal Pictures, 2011.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}

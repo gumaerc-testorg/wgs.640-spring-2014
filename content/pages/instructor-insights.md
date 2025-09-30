@@ -47,7 +47,7 @@ Sharing ideas and creative planning sessions in establishing and subsequently re
 
 ### Prerequisites
 
-Students must apply to the [Graduate Consortium in Women’s Studies](http://web.mit.edu/gcws/courses/index.html).
+Students must apply to the {{% resource_link "b370c3c2-4222-4a15-9d6a-d0edba5220de" "Graduate Consortium in Women’s Studies" %}}.
 
 ### Requirements Satisfied
 
